@@ -1,0 +1,45 @@
+
+body{
+    background-color: rgb(177, 120, 120);
+}
+.col-md-4{
+    background-color: rgb(241, 159, 159);
+    padding: 40px;
+    padding-top: 100px;
+    text-align: center;
+}
+.col-md-8{
+    background-color: rgb(189, 192, 196);
+    padding: 20px;
+}
+.container{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.alert{
+    text-align: center;
+    padding: 10px;
+    color: white;
+    background-color: rgb(105, 214, 105);
+    margin-bottom: 10px;
+    display: none;
+}
+.btn{
+    background-color: rgb(241, 159, 159);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h4{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#emailFont{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+label{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
